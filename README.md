@@ -12,10 +12,3 @@ Mechatronics Engineer / Freelance Mobile App and Game Developer
 ### Github Stats 
 ![image](https://github-readme-stats.vercel.app/api?username=Yigit41)
 
-
-<div style="color: red; text-align: center;">
-  
-  Paragraf cümlesi.
-
-  Bir başka paragraf cümlesi.
-</div>
